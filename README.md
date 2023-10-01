@@ -29,3 +29,5 @@ Secunet provides detailed scan results, highlighting information about each open
 Port 80 is open - HTTP service may be running.
 Port 22 is open - SSH access may be available.
 ...
+
+  <a href="https://imgur.com/VqpiXj5"><img src="https://i.imgur.com/VqpiXj5.png" title="source: imgur.com" /></a>
